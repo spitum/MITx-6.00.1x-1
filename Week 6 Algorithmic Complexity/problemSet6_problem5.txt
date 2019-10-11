@@ -27,4 +27,4 @@ function is tested with a list L whose elements are sorted in increasing
 order; for simplicity, assume L is a list of positive integers.
 
 Answer
-search and newsearch return the same answers for lists L of length 0, 1, or 2. - correct
+search and newsearch return the same answers for lists L of length 0, or 1. - correct
